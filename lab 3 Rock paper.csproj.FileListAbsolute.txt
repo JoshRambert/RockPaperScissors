@@ -1,0 +1,51 @@
+C:\Users\Joshua\Desktop\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.exe.config
+C:\Users\Joshua\Desktop\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.exe
+C:\Users\Joshua\Desktop\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.pdb
+C:\Users\Joshua\Desktop\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab_3_Rock_paper.Form1.resources
+C:\Users\Joshua\Desktop\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab_3_Rock_paper.Properties.Resources.resources
+C:\Users\Joshua\Desktop\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.exe
+C:\Users\Joshua\Desktop\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.pdb
+C:\Users\Joshua\Desktop\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\Resources\rock.jpeg
+C:\Users\Joshua\Desktop\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\Resources\paper.jpeg
+C:\Users\Joshua\Desktop\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\Resources\scissors.jpeg
+C:\Users\Joshua\Desktop\Lab 3 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.exe.config
+C:\Users\Joshua\Desktop\Lab 3 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.exe
+C:\Users\Joshua\Desktop\Lab 3 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.pdb
+C:\Users\Joshua\Desktop\Lab 3 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\Resources\rock.jpeg
+C:\Users\Joshua\Desktop\Lab 3 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\Resources\paper.jpeg
+C:\Users\Joshua\Desktop\Lab 3 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\Resources\scissors.jpeg
+C:\Users\Joshua\Desktop\Lab 3 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.exe
+C:\Users\Joshua\Desktop\Lab 3 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.pdb
+C:\Users\Joshua\Desktop\Lab 3 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\Lab 3 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab_3_Rock_paper.Form1.resources
+C:\Users\Joshua\Desktop\Lab 3 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab_3_Rock_paper.Properties.Resources.resources
+C:\Users\Joshua\Desktop\Lab 3 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.exe.config
+C:\Users\Joshua\Desktop\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.exe
+C:\Users\Joshua\Desktop\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.pdb
+C:\Users\Joshua\Desktop\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\Resources\rock.jpeg
+C:\Users\Joshua\Desktop\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\Resources\paper.jpeg
+C:\Users\Joshua\Desktop\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\Resources\scissors.jpeg
+C:\Users\Joshua\Desktop\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.exe
+C:\Users\Joshua\Desktop\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.pdb
+C:\Users\Joshua\Desktop\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab_3_Rock_paper.Form1.resources
+C:\Users\Joshua\Desktop\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab_3_Rock_paper.Properties.Resources.resources
+C:\Users\Joshua\Desktop\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\C# practice\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.exe.config
+C:\Users\Joshua\Desktop\C# practice\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.exe
+C:\Users\Joshua\Desktop\C# practice\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.pdb
+C:\Users\Joshua\Desktop\C# practice\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\Resources\rock.jpeg
+C:\Users\Joshua\Desktop\C# practice\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\Resources\paper.jpeg
+C:\Users\Joshua\Desktop\C# practice\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\Resources\scissors.jpeg
+C:\Users\Joshua\Desktop\C# practice\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.exe
+C:\Users\Joshua\Desktop\C# practice\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.pdb
+C:\Users\Joshua\Desktop\C# practice\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\C# practice\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab_3_Rock_paper.Form1.resources
+C:\Users\Joshua\Desktop\C# practice\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab_3_Rock_paper.Properties.Resources.resources
+C:\Users\Joshua\Desktop\C# practice\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\C#\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\bin\Debug\lab 3 Rock paper.exe.config
+C:\Users\Joshua\Desktop\C#\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.exe
+C:\Users\Joshua\Desktop\C#\lab 5 submit\lab 3 Rock paper\lab 3 Rock paper\obj\Debug\lab 3 Rock paper.pdb
